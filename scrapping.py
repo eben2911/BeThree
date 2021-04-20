@@ -21,7 +21,7 @@ for headline in obj.find_all("div",class_="conten1"):
     data.append({
         "kategori":headline.find('h1').text, 
         "judul":headline.find('h2').text,
-        "link":headline.find('a').get('href'),
+        "link":headline.find('h2').find('a').get('href'),
         "waktu_publish":headline.find('div',class_="date").text,
         "waktu_scrapping":waktu
         })
