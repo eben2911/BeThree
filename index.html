@@ -70,6 +70,7 @@
                                    <ul class="nav">
                                         <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
                                         <li class="scroll-to-section"><a href="#about">About</a></li>
+                                        <li class="scroll-to-section"><a href="#scrapping">Scrapping</a></li>
                                         <li class="scroll-to-section"><a href="#menu">Portofolio</a></li>
                                         <li class="scroll-to-section"><a href="#chefs">Member</a></li>
                                         <li class="scroll-to-section"><a href="#reservation">Contact Us</a></li>
@@ -909,7 +910,7 @@
                          $.each(obj, function (n, data) {
                               str += '<tr><td scope=row>' + (n + 1) + '</td>';
                               str += '<td>' + data.kategori + '</td>'
-                              str += '<td>' + data.judul + '</td>'
+                              str += '<td><a href='+data.link+'>' + data.judul + '</td>'
                               str += '<td>' + data.waktu_publish + '</td>'
                               str += '<td>' + data.waktu_scrapping + '</td></tr>';
                          });
