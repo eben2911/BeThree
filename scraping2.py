@@ -19,12 +19,13 @@ while i <= 100:
     for parrent in driver.find_elements_by_class_name("mode-advanced"):
         print(parrent.text.split("\n"))
         for img in parrent.find_elements_by_tag_name("img"):
-            print(img.get_attribute("src")) 
-            urllib.request.urlretrieve(img.get_attribute("src"), str(i)+".png")
+            # print(img.get_attribute("src")) 
+            # urllib.request.urlretrieve(img.get_attribute("src"), str(i)+".png")
             i = i+1
             film.append({
             "Rank": parrent.text.split("\n")[0].split(".")[0],
             "Judul": parrent.text.split("\n")[0].split(". ")[1].split(" (")[0],
+            "Link_judul": parrent.find_element_by_tag_name("a").get_attribute("href"),
             "Durasi": parrent.text.split("\n")[1].split(" | ")[1],
             "Rating": parrent.text.split("\n")[2].split(" ")[0],
             "Direktor": parrent.text.split("\n")[5].split(": ")[1].split(" | ")[0],

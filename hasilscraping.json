@@ -2,901 +2,1001 @@
       {
             "Rank": "1",
             "Judul": "The Dark Knight",
+            "Link_judul": "https://www.imdb.com/title/tt0468569/?ref_=adv_li_i",
             "Durasi": "152 min",
             "Rating": "9.0",
             "Direktor": "Christopher Nolan",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "2",
             "Judul": "The Lord of the Rings: The Return of the King",
+            "Link_judul": "https://www.imdb.com/title/tt0167260/?ref_=adv_li_i",
             "Durasi": "201 min",
             "Rating": "8.9",
             "Direktor": "Peter Jackson",
             "Image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "3",
             "Judul": "Brothers in Arms",
+            "Link_judul": "https://www.imdb.com/title/tt5813916/?ref_=adv_li_i",
             "Durasi": "135 min",
             "Rating": "8.8",
             "Direktor": "105,777",
-            "Image": "https://m.media-amazon.com/images/M/MV5BN2I2NGMzMTItNWI4YS00MWRiLTliZTEtNzhjODE3NDcyZjQwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR3,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "4",
             "Judul": "Inception",
+            "Link_judul": "https://www.imdb.com/title/tt1375666/?ref_=adv_li_i",
             "Durasi": "148 min",
             "Rating": "8.8",
             "Direktor": "Christopher Nolan",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "5",
             "Judul": "The Lord of the Rings: The Fellowship of the Ring",
+            "Link_judul": "https://www.imdb.com/title/tt0120737/?ref_=adv_li_i",
             "Durasi": "178 min",
             "Rating": "8.8",
             "Direktor": "Peter Jackson",
-            "Image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "6",
             "Judul": "The Lord of the Rings: The Two Towers",
+            "Link_judul": "https://www.imdb.com/title/tt0167261/?ref_=adv_li_i",
             "Durasi": "179 min",
             "Rating": "8.7",
             "Direktor": "Peter Jackson",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "7",
             "Judul": "The Matrix",
+            "Link_judul": "https://www.imdb.com/title/tt0133093/?ref_=adv_li_i",
             "Durasi": "136 min",
             "Rating": "8.7",
             "Direktor": "Lana Wachowski, Lilly Wachowski",
-            "Image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "8",
             "Judul": "Star Wars: Episode V - The Empire Strikes Back",
+            "Link_judul": "https://www.imdb.com/title/tt0080684/?ref_=adv_li_i",
             "Durasi": "124 min",
             "Rating": "8.7",
             "Direktor": "Irvin Kershner",
-            "Image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "9",
             "Judul": "Star Wars: Episode IV - A New Hope",
+            "Link_judul": "https://www.imdb.com/title/tt0076759/?ref_=adv_li_i",
             "Durasi": "121 min",
             "Rating": "8.6",
             "Direktor": "George Lucas",
-            "Image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "10",
             "Judul": "Harakiri",
+            "Link_judul": "https://www.imdb.com/title/tt0056058/?ref_=adv_li_i",
             "Durasi": "133 min",
             "Rating": "8.6",
             "Direktor": "Masaki Kobayashi",
-            "Image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY98_CR2,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "11",
             "Judul": "Seven Samurai",
+            "Link_judul": "https://www.imdb.com/title/tt0047478/?ref_=adv_li_i",
             "Durasi": "207 min",
             "Rating": "8.6",
             "Direktor": "Akira Kurosawa",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "12",
             "Judul": "Raatchasan",
+            "Link_judul": "https://www.imdb.com/title/tt7060344/?ref_=adv_li_i",
             "Durasi": "Action, Crime, Thriller",
             "Rating": "8.5",
             "Direktor": "27,633",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY98_CR2,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "13",
             "Judul": "Gladiator",
+            "Link_judul": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_i",
             "Durasi": "155 min",
             "Rating": "8.5",
             "Direktor": "Ridley Scott",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "14",
             "Judul": "Leon",
+            "Link_judul": "https://www.imdb.com/title/tt0110413/?ref_=adv_li_i",
             "Durasi": "110 min",
             "Rating": "8.5",
             "Direktor": "Luc Besson",
-            "Image": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "15",
             "Judul": "Terminator 2: Judgment Day",
+            "Link_judul": "https://www.imdb.com/title/tt0103064/?ref_=adv_li_i",
             "Durasi": "137 min",
             "Rating": "8.5",
             "Direktor": "James Cameron",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "16",
             "Judul": "Vikram Vedha",
+            "Link_judul": "https://www.imdb.com/title/tt6148156/?ref_=adv_li_i",
             "Durasi": "147 min",
             "Rating": "8.4",
             "Direktor": "29,742",
-            "Image": "https://m.media-amazon.com/images/M/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "17",
             "Judul": "Dangal",
+            "Link_judul": "https://www.imdb.com/title/tt5074352/?ref_=adv_li_i",
             "Durasi": "161 min",
             "Rating": "8.4",
             "Direktor": "161,152",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "18",
             "Judul": "Spider-Man: Into the Spider-Verse",
+            "Link_judul": "https://www.imdb.com/title/tt4633694/?ref_=adv_li_i",
             "Durasi": "117 min",
             "Rating": "8.4",
             "Direktor": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "19",
             "Judul": "Avengers: Endgame",
+            "Link_judul": "https://www.imdb.com/title/tt4154796/?ref_=adv_li_i",
             "Durasi": "181 min",
             "Rating": "8.4",
             "Direktor": "Anthony Russo, Joe Russo",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "20",
             "Judul": "Avengers: Infinity War",
+            "Link_judul": "https://www.imdb.com/title/tt4154756/?ref_=adv_li_i",
             "Durasi": "149 min",
             "Rating": "8.4",
             "Direktor": "Anthony Russo, Joe Russo",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "21",
             "Judul": "The Dark Knight Rises",
+            "Link_judul": "https://www.imdb.com/title/tt1345836/?ref_=adv_li_i",
             "Durasi": "164 min",
             "Rating": "8.4",
             "Direktor": "Christopher Nolan",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "22",
             "Judul": "Oldboy",
+            "Link_judul": "https://www.imdb.com/title/tt0364569/?ref_=adv_li_i",
             "Durasi": "120 min",
             "Rating": "8.4",
             "Direktor": "Chan-wook Park",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "23",
             "Judul": "Princess Mononoke",
+            "Link_judul": "https://www.imdb.com/title/tt0119698/?ref_=adv_li_i",
             "Durasi": "134 min",
             "Rating": "8.4",
             "Direktor": "Hayao Miyazaki",
-            "Image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "24",
             "Judul": "Raiders of the Lost Ark",
+            "Link_judul": "https://www.imdb.com/title/tt0082971/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "8.4",
             "Direktor": "Steven Spielberg",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "25",
             "Judul": "Aliens",
+            "Link_judul": "https://www.imdb.com/title/tt0090605/?ref_=adv_li_i",
             "Durasi": "137 min",
             "Rating": "8.3",
             "Direktor": "James Cameron",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "26",
             "Judul": "Star Wars: Return of the Jedi",
+            "Link_judul": "https://www.imdb.com/title/tt0086190/?ref_=adv_li_i",
             "Durasi": "131 min",
             "Rating": "8.3",
             "Direktor": "Richard Marquand",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "27",
             "Judul": "Uri: The Surgical Strike",
+            "Link_judul": "https://www.imdb.com/title/tt8291224/?ref_=adv_li_i",
             "Durasi": "138 min",
             "Rating": "8.2",
             "Direktor": "44,391",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "28",
             "Judul": "K.G.F",
+            "Link_judul": "https://www.imdb.com/title/tt7838252/?ref_=adv_li_i",
             "Durasi": "156 min",
             "Rating": "8.2",
             "Direktor": "38,689",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "29",
             "Judul": "Baahubali 2: The Conclusion",
+            "Link_judul": "https://www.imdb.com/title/tt4849438/?ref_=adv_li_i",
             "Durasi": "167 min",
             "Rating": "8.2",
             "Direktor": "76,682",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOGNlNmRkMjctNDgxMC00NzFhLWIzY2YtZDk3ZDE0NWZhZDBlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "30",
             "Judul": "Gangs of Wasseypur",
+            "Link_judul": "https://www.imdb.com/title/tt1954470/?ref_=adv_li_i",
             "Durasi": "321 min",
             "Rating": "8.2",
             "Direktor": "Anurag Kashyap",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "31",
             "Judul": "Paan Singh Tomar",
+            "Link_judul": "https://www.imdb.com/title/tt1620933/?ref_=adv_li_i",
             "Durasi": "135 min",
             "Rating": "8.2",
             "Direktor": "33,612",
-            "Image": "https://m.media-amazon.com/images/M/MV5BNTgwODM5OTMzN15BMl5BanBnXkFtZTcwMTA3NzI1Nw@@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "32",
             "Judul": "Warrior",
+            "Link_judul": "https://www.imdb.com/title/tt1291584/?ref_=adv_li_i",
             "Durasi": "140 min",
             "Rating": "8.2",
             "Direktor": "Gavin O'Connor",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "33",
             "Judul": "V for Vendetta",
+            "Link_judul": "https://www.imdb.com/title/tt0434409/?ref_=adv_li_i",
             "Durasi": "132 min",
             "Rating": "8.2",
             "Direktor": "James McTeigue",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "34",
             "Judul": "Batman Begins",
+            "Link_judul": "https://www.imdb.com/title/tt0372784/?ref_=adv_li_i",
             "Durasi": "140 min",
             "Rating": "8.2",
             "Direktor": "Christopher Nolan",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "35",
             "Judul": "Hera Pheri",
+            "Link_judul": "https://www.imdb.com/title/tt0242519/?ref_=adv_li_i",
             "Durasi": "156 min",
             "Rating": "8.2",
             "Direktor": "58,036",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMGMzZjY2ZWQtZjQxYS00NWY3LThhNjItNWQzNTkzOTllODljXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "36",
             "Judul": "Lock, Stock and Two Smoking Barrels",
+            "Link_judul": "https://www.imdb.com/title/tt0120735/?ref_=adv_li_i",
             "Durasi": "107 min",
             "Rating": "8.2",
             "Direktor": "Guy Ritchie",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "37",
             "Judul": "Andaz Apna Apna",
+            "Link_judul": "https://www.imdb.com/title/tt0109117/?ref_=adv_li_i",
             "Durasi": "160 min",
             "Rating": "8.2",
             "Direktor": "49,734",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZTIwYzRjMGYtZWQ0Ni00NDZhLThhZDYtOGViZGJiZTkwMzk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR3,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "38",
             "Judul": "Indiana Jones and the Last Crusade",
+            "Link_judul": "https://www.imdb.com/title/tt0097576/?ref_=adv_li_i",
             "Durasi": "127 min",
             "Rating": "8.2",
             "Direktor": "Steven Spielberg",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "39",
             "Judul": "Die Hard",
+            "Link_judul": "https://www.imdb.com/title/tt0095016/?ref_=adv_li_i",
             "Durasi": "132 min",
             "Rating": "8.2",
             "Direktor": "John McTiernan",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "40",
             "Judul": "Ran",
+            "Link_judul": "https://www.imdb.com/title/tt0089881/?ref_=adv_li_i",
             "Durasi": "162 min",
             "Rating": "8.2",
             "Direktor": "Akira Kurosawa",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "41",
             "Judul": "Sholay",
+            "Link_judul": "https://www.imdb.com/title/tt0073707/?ref_=adv_li_i",
             "Durasi": "204 min",
             "Rating": "8.2",
             "Direktor": "51,830",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOGZiM2IwODktNTdiMC00MGU1LWEyZTYtOTk4NTkwYmJkNmI1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR2,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "42",
             "Judul": "Yojimbo",
+            "Link_judul": "https://www.imdb.com/title/tt0055630/?ref_=adv_li_i",
             "Durasi": "110 min",
             "Rating": "8.2",
             "Direktor": "113,208",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "43",
             "Judul": "Sherlock Jr",
+            "Link_judul": "https://www.imdb.com/title/tt0015324/?ref_=adv_li_i",
             "Durasi": "45 min",
             "Rating": "8.2",
             "Direktor": "43,315",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "44",
             "Judul": "Haider",
+            "Link_judul": "https://www.imdb.com/title/tt3390572/?ref_=adv_li_i",
             "Durasi": "160 min",
             "Rating": "8.1",
             "Direktor": "50,881",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjA1NTEwMDMxMF5BMl5BanBnXkFtZTgwODkzMzI0MjE@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "45",
             "Judul": "Logan",
+            "Link_judul": "https://www.imdb.com/title/tt3315342/?ref_=adv_li_i",
             "Durasi": "137 min",
             "Rating": "8.1",
             "Direktor": "James Mangold",
-            "Image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "46",
             "Judul": "1 - Nenokkadine",
+            "Link_judul": "https://www.imdb.com/title/tt2375559/?ref_=adv_li_i",
             "Durasi": "170 min",
             "Rating": "8.1",
             "Direktor": "43,374",
-            "Image": "https://m.media-amazon.com/images/M/MV5BNzcwMzkwODE1NF5BMl5BanBnXkFtZTgwNzA1NzAwMTE@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "47",
             "Judul": "Vishwaroopam",
+            "Link_judul": "https://www.imdb.com/title/tt2199711/?ref_=adv_li_i",
             "Durasi": "148 min",
             "Rating": "8.1",
             "Direktor": "38,925",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZWVhNjNkZDQtNzJkOS00ZDA5LWIwZGEtODk0NjYzYjI0MTFmXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "48",
             "Judul": "Rush",
+            "Link_judul": "https://www.imdb.com/title/tt1979320/?ref_=adv_li_i",
             "Durasi": "123 min",
             "Rating": "8.1",
             "Direktor": "Ron Howard",
-            "Image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "49",
             "Judul": "Le Mans '66",
+            "Link_judul": "https://www.imdb.com/title/tt1950186/?ref_=adv_li_i",
             "Durasi": "152 min",
             "Rating": "8.1",
             "Direktor": "James Mangold",
-            "Image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "50",
             "Judul": "Mad Max: Fury Road",
+            "Link_judul": "https://www.imdb.com/title/tt1392190/?ref_=adv_li_i",
             "Durasi": "120 min",
             "Rating": "8.1",
             "Direktor": "George Miller",
             "Image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "51",
             "Judul": "A Wednesday",
+            "Link_judul": "https://www.imdb.com/title/tt1280558/?ref_=adv_li_i",
             "Durasi": "104 min",
             "Rating": "8.1",
             "Direktor": "74,421",
             "Image": "https://m.media-amazon.com/images/M/MV5BOTcwMzdiMWItMjZlOS00MzAzLTg5OTItNTA4OGYyMjBhMmRiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "52",
             "Judul": "Zack Snyder's Justice League",
+            "Link_judul": "https://www.imdb.com/title/tt12361974/?ref_=adv_li_i",
             "Durasi": "242 min",
             "Rating": "8.1",
             "Direktor": "Zack Snyder",
             "Image": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "53",
             "Judul": "How to Train Your Dragon",
+            "Link_judul": "https://www.imdb.com/title/tt0892769/?ref_=adv_li_i",
             "Durasi": "98 min",
             "Rating": "8.1",
             "Direktor": "Dean DeBlois, Chris Sanders",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "54",
             "Judul": "Brotherhood",
+            "Link_judul": "https://www.imdb.com/title/tt0386064/?ref_=adv_li_i",
             "Durasi": "140 min",
             "Rating": "8.1",
             "Direktor": "Je-kyu Kang",
             "Image": "https://m.media-amazon.com/images/M/MV5BNjAxZTEzNzQtYjdlNy00ZTJmLTkwZDUtOTAwNTM3YjI2MWUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "55",
             "Judul": "Kill Bill: Vol",
+            "Link_judul": "https://www.imdb.com/title/tt0266697/?ref_=adv_li_i",
             "Durasi": "111 min",
             "Rating": "8.1",
             "Direktor": "Quentin Tarantino",
             "Image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "56",
             "Judul": "Neon Genesis Evangelion: The End of Evangelion",
+            "Link_judul": "https://www.imdb.com/title/tt0169858/?ref_=adv_li_i",
             "Durasi": "87 min",
             "Rating": "8.1",
             "Direktor": "41,055",
             "Image": "https://m.media-amazon.com/images/M/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "57",
             "Judul": "Jurassic Park",
+            "Link_judul": "https://www.imdb.com/title/tt0107290/?ref_=adv_li_i",
             "Durasi": "127 min",
             "Rating": "8.1",
             "Direktor": "Steven Spielberg",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "58",
             "Judul": "Blade Runner",
+            "Link_judul": "https://www.imdb.com/title/tt0083658/?ref_=adv_li_i",
             "Durasi": "117 min",
             "Rating": "8.1",
             "Direktor": "Ridley Scott",
             "Image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "59",
             "Judul": "Sanjuro",
+            "Link_judul": "https://www.imdb.com/title/tt0056443/?ref_=adv_li_i",
             "Durasi": "96 min",
             "Rating": "8.1",
             "Direktor": "33,746",
             "Image": "https://m.media-amazon.com/images/M/MV5BZmY3MDlmODctYTY3Yi00NzYyLWIxNTUtYjVlZWZjMmMwZTBkXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "60",
             "Judul": "White Heat",
+            "Link_judul": "https://www.imdb.com/title/tt0042041/?ref_=adv_li_i",
             "Durasi": "114 min",
             "Rating": "8.1",
             "Direktor": "30,190",
-            "Image": "https://m.media-amazon.com/images/M/MV5BZmI5NTA3MjItYzdhMi00MWMxLTg3OWMtYWQyYjg5MTFmM2U0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "61",
             "Judul": "The General",
+            "Link_judul": "https://www.imdb.com/title/tt0017925/?ref_=adv_li_i",
             "Durasi": "67 min",
             "Rating": "8.1",
             "Direktor": "82,448",
-            "Image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "62",
             "Judul": "Bajrangi Bhaijaan",
+            "Link_judul": "https://www.imdb.com/title/tt3863552/?ref_=adv_li_i",
             "Durasi": "163 min",
             "Rating": "8.0",
             "Direktor": "73,407",
-            "Image": "https://m.media-amazon.com/images/M/MV5BMjE1NjQ5ODc2NV5BMl5BanBnXkFtZTgwOTM5ODIxNjE@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "63",
             "Judul": "Baby",
+            "Link_judul": "https://www.imdb.com/title/tt3848892/?ref_=adv_li_i",
             "Durasi": "159 min",
             "Rating": "8.0",
             "Direktor": "53,247",
-            "Image": "https://m.media-amazon.com/images/M/MV5BYTdhNjBjZDctYTlkYy00ZGIxLWFjYTktODk5ZjNlMzI4NjI3XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Image": "https://m.media-amazon.com/images/S/sash/4FyxwxECzL-U1J8.png",
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "64",
             "Judul": "Baahubali: The Beginning",
+            "Link_judul": "https://www.imdb.com/title/tt2631186/?ref_=adv_li_i",
             "Durasi": "159 min",
             "Rating": "8.0",
             "Direktor": "104,393",
             "Image": "https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "65",
             "Judul": "The Raid 2",
+            "Link_judul": "https://www.imdb.com/title/tt2265171/?ref_=adv_li_i",
             "Durasi": "150 min",
             "Rating": "8.0",
             "Direktor": "Gareth Evans",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTg5MTE2NjA4OV5BMl5BanBnXkFtZTgwMTUyMjczMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "66",
             "Judul": "Guardians of the Galaxy",
+            "Link_judul": "https://www.imdb.com/title/tt2015381/?ref_=adv_li_i",
             "Durasi": "121 min",
             "Rating": "8.0",
             "Direktor": "James Gunn",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "67",
             "Judul": "Blade Runner 2049",
+            "Link_judul": "https://www.imdb.com/title/tt1856101/?ref_=adv_li_i",
             "Durasi": "164 min",
             "Rating": "8.0",
             "Direktor": "Denis Villeneuve",
             "Image": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "68",
             "Judul": "The Revenant",
+            "Link_judul": "https://www.imdb.com/title/tt1663202/?ref_=adv_li_i",
             "Durasi": "156 min",
             "Rating": "8.0",
             "Direktor": "Alejandro G. I\u00f1\u00e1rritu",
             "Image": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "69",
             "Judul": "Elite Squad 2: The Enemy Within",
+            "Link_judul": "https://www.imdb.com/title/tt1555149/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "8.0",
             "Direktor": "Jos\u00e9 Padilha",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjEzMzMxOTUyNV5BMl5BanBnXkFtZTcwNjI3MDc5Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "70",
             "Judul": "Deadpool",
+            "Link_judul": "https://www.imdb.com/title/tt1431045/?ref_=adv_li_i",
             "Durasi": "108 min",
             "Rating": "8.0",
             "Direktor": "Tim Miller",
             "Image": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "71",
             "Judul": "Ip Man",
+            "Link_judul": "https://www.imdb.com/title/tt1220719/?ref_=adv_li_i",
             "Durasi": "106 min",
             "Rating": "8.0",
             "Direktor": "Wilson Yip",
             "Image": "https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "72",
             "Judul": "The Breath",
+            "Link_judul": "https://www.imdb.com/title/tt1171701/?ref_=adv_li_i",
             "Durasi": "128 min",
             "Rating": "8.0",
             "Direktor": "32,156",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjE2NjEyMDg0M15BMl5BanBnXkFtZTcwODYyODg5Mg@@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "73",
             "Judul": "Elite Squad",
+            "Link_judul": "https://www.imdb.com/title/tt0861739/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "8.0",
             "Direktor": "Jos\u00e9 Padilha",
             "Image": "https://m.media-amazon.com/images/M/MV5BYmI1ODU5ZjMtNWUyNC00YzllLThjNzktODE1M2E4OTVmY2E5XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "74",
             "Judul": "Avengers Assemble",
+            "Link_judul": "https://www.imdb.com/title/tt0848228/?ref_=adv_li_i",
             "Durasi": "143 min",
             "Rating": "8.0",
             "Direktor": "Joss Whedon",
             "Image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "75",
             "Judul": "The Bourne Ultimatum",
+            "Link_judul": "https://www.imdb.com/title/tt0440963/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "8.0",
             "Direktor": "Paul Greengrass",
             "Image": "https://m.media-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "76",
             "Judul": "Casino Royale",
+            "Link_judul": "https://www.imdb.com/title/tt0381061/?ref_=adv_li_i",
             "Durasi": "144 min",
             "Rating": "8.0",
             "Direktor": "Martin Campbell",
             "Image": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "77",
             "Judul": "Kill Bill: Vol",
+            "Link_judul": "https://www.imdb.com/title/tt0378194/?ref_=adv_li_i",
             "Durasi": "137 min",
             "Rating": "8.0",
             "Direktor": "Quentin Tarantino",
             "Image": "https://m.media-amazon.com/images/M/MV5BNmFiYmJmN2QtNWQwMi00MzliLThiOWMtZjQxNGRhZTQ1MjgyXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "78",
             "Judul": "Infernal Affairs",
+            "Link_judul": "https://www.imdb.com/title/tt0338564/?ref_=adv_li_i",
             "Durasi": "101 min",
             "Rating": "8.0",
             "Direktor": "Andrew Lau, Alan Mak",
             "Image": "https://m.media-amazon.com/images/M/MV5BM2U0NTcxOTktN2MwZS00N2Q2LWJlYWItMTg0NWIyMDIxNzU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "79",
             "Judul": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "Link_judul": "https://www.imdb.com/title/tt0325980/?ref_=adv_li_i",
             "Durasi": "143 min",
             "Rating": "8.0",
             "Direktor": "Gore Verbinski",
             "Image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "80",
             "Judul": "The Incredibles",
+            "Link_judul": "https://www.imdb.com/title/tt0317705/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "8.0",
             "Direktor": "Brad Bird",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "81",
             "Judul": "The Iron Giant",
+            "Link_judul": "https://www.imdb.com/title/tt0129167/?ref_=adv_li_i",
             "Durasi": "86 min",
             "Rating": "8.0",
             "Direktor": "Brad Bird",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjIxNDU2Njk0OV5BMl5BanBnXkFtZTgwODc3Njc3NjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "82",
             "Judul": "Knockin' on Heaven's Door",
+            "Link_judul": "https://www.imdb.com/title/tt0119472/?ref_=adv_li_i",
             "Durasi": "Action, Crime, Comedy",
             "Rating": "8.0",
             "Direktor": "28,089",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTk2MjcxNjMzN15BMl5BanBnXkFtZTgwMTE3OTEwNjE@._V1_UY98_CR3,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "83",
             "Judul": "Ghost in the Shell",
+            "Link_judul": "https://www.imdb.com/title/tt0113568/?ref_=adv_li_i",
             "Durasi": "83 min",
             "Rating": "8.0",
             "Direktor": "Mamoru Oshii",
             "Image": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "84",
             "Judul": "Akira",
+            "Link_judul": "https://www.imdb.com/title/tt0094625/?ref_=adv_li_i",
             "Durasi": "124 min",
             "Rating": "8.0",
             "Direktor": "167,748",
             "Image": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "85",
             "Judul": "The Terminator",
+            "Link_judul": "https://www.imdb.com/title/tt0088247/?ref_=adv_li_i",
             "Durasi": "107 min",
             "Rating": "8.0",
             "Direktor": "James Cameron",
             "Image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "86",
             "Judul": "A Fistful of Dollars",
+            "Link_judul": "https://www.imdb.com/title/tt0058461/?ref_=adv_li_i",
             "Durasi": "99 min",
             "Rating": "8.0",
             "Direktor": "Sergio Leone",
             "Image": "https://m.media-amazon.com/images/M/MV5BYjA1MGVlMGItNzgxMC00OWY4LWI4YjEtNTNmYWIzMGUxOGQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "87",
             "Judul": "Rio Bravo",
+            "Link_judul": "https://www.imdb.com/title/tt0053221/?ref_=adv_li_i",
             "Durasi": "141 min",
             "Rating": "8.0",
             "Direktor": "Howard Hawks",
             "Image": "https://m.media-amazon.com/images/M/MV5BZDVhMTk1NjUtYjc0OS00OTE1LTk1NTYtYWMzMDI5OTlmYzU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "88",
             "Judul": "Thor: Ragnarok",
+            "Link_judul": "https://www.imdb.com/title/tt3501632/?ref_=adv_li_i",
             "Durasi": "130 min",
             "Rating": "7.9",
             "Direktor": "Taika Waititi",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "89",
             "Judul": "Star Wars: Episode VII - The Force Awakens",
+            "Link_judul": "https://www.imdb.com/title/tt2488496/?ref_=adv_li_i",
             "Durasi": "138 min",
             "Rating": "7.9",
             "Direktor": "J.J. Abrams",
             "Image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "90",
             "Judul": "Thuppakki",
+            "Link_judul": "https://www.imdb.com/title/tt2187153/?ref_=adv_li_i",
             "Durasi": "165 min",
             "Rating": "7.9",
             "Direktor": "25,822",
             "Image": "https://m.media-amazon.com/images/M/MV5BZjQxYjVkYzQtMmEzNy00MzM1LWE4OTUtZTc0NTdkMjBiOGZiXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "91",
             "Judul": "X-Men: Days of Future Past",
+            "Link_judul": "https://www.imdb.com/title/tt1877832/?ref_=adv_li_i",
             "Durasi": "132 min",
             "Rating": "7.9",
             "Direktor": "Bryan Singer",
             "Image": "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "92",
             "Judul": "Waar",
+            "Link_judul": "https://www.imdb.com/title/tt1821700/?ref_=adv_li_i",
             "Durasi": "130 min",
             "Rating": "7.9",
             "Direktor": "29,393",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjI2NjM2MjYzMV5BMl5BanBnXkFtZTgwMjc0NTE1MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "93",
             "Judul": "Edge of Tomorrow",
+            "Link_judul": "https://www.imdb.com/title/tt1631867/?ref_=adv_li_i",
             "Durasi": "113 min",
             "Rating": "7.9",
             "Direktor": "Doug Liman",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "94",
             "Judul": "District 9",
+            "Link_judul": "https://www.imdb.com/title/tt1136608/?ref_=adv_li_i",
             "Durasi": "112 min",
             "Rating": "7.9",
             "Direktor": "Neill Blomkamp",
             "Image": "https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "95",
             "Judul": "Star Trek",
+            "Link_judul": "https://www.imdb.com/title/tt0796366/?ref_=adv_li_i",
             "Durasi": "127 min",
             "Rating": "7.9",
             "Direktor": "J.J. Abrams",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "96",
             "Judul": "Letters from Iwo Jima",
+            "Link_judul": "https://www.imdb.com/title/tt0498380/?ref_=adv_li_i",
             "Durasi": "141 min",
             "Rating": "7.9",
             "Direktor": "Clint Eastwood",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjE0NzgwODI4M15BMl5BanBnXkFtZTcwNjg3OTA0MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "97",
             "Judul": "Iron Man",
+            "Link_judul": "https://www.imdb.com/title/tt0371746/?ref_=adv_li_i",
             "Durasi": "126 min",
             "Rating": "7.9",
             "Direktor": "Jon Favreau",
             "Image": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "98",
             "Judul": "Hero",
+            "Link_judul": "https://www.imdb.com/title/tt0299977/?ref_=adv_li_i",
             "Durasi": "120 min",
             "Rating": "7.9",
             "Direktor": "Yimou Zhang",
             "Image": "https://m.media-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "99",
             "Judul": "Cowboy Bebop: The Movie",
+            "Link_judul": "https://www.imdb.com/title/tt0275277/?ref_=adv_li_i",
             "Durasi": "115 min",
             "Rating": "7.9",
             "Direktor": "Shin'ichir\u00f4 Watanabe, Tensai Okamura, Hiroyuki Okiura, Yoshiyuki Takei",
             "Image": "https://m.media-amazon.com/images/M/MV5BMjYzYWM4YTItZjJiMC00OTM5LTg3NDgtOGQ2Njk2ZWNhN2QwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY98_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       },
       {
             "Rank": "100",
             "Judul": "The Bourne Identity",
+            "Link_judul": "https://www.imdb.com/title/tt0258463/?ref_=adv_li_i",
             "Durasi": "119 min",
             "Rating": "7.9",
             "Direktor": "Doug Liman",
             "Image": "https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
-            "Waktu_scrapping": "27 April 2021 13:19:36"
+            "Waktu_scrapping": "27 April 2021 13:46:52"
       }
 ]
